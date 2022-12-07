@@ -5,6 +5,9 @@ import functionOverall from '../../resources/function_overall.png'
 const markdown = `
 技术概览
 ---
+
+[github地址](https://github.com/wendyma111/lowcode-jy/tree/feature/lowcode)
+
 `
 
 function Doc() {

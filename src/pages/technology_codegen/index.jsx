@@ -4,6 +4,8 @@ import Page from '../page'
 const markdown = `
 出码模块
 ---
+[github地址](https://github.com/wendyma111/lowcode-jy-utils/tree/feature/lowcode/packages/codegen)
+
 **1、概述**  
 根据schema json文件生成源码项目
 \`\`\`js

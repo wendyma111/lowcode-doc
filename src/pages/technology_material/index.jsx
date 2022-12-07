@@ -4,6 +4,8 @@ import Page from '../page'
 const markdown = `
 入料模块
 ---
+[github地址](https://github.com/wendyma111/lowcode-jy-utils/tree/feature/lowcode/packages/lc-cli)
+
 **1、概述**  
 入料模块提供 创建 -> 调试 -> 打包 -> 发布 一站式工具进行辅助开发  
 

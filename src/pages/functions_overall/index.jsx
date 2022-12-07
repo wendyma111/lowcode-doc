@@ -9,7 +9,11 @@ function Doc() {
 
   return (
     <>
-      <Page markdown={`## 功能概览`} />
+      <Page markdown={`
+功能概览
+---
+[live demo](https://wendyma111.github.io/lowcode-jy/)
+`} />
       <img src={funcModel} style={{ width: '100%' }} />
       <img src={funcModelSite} style={{ width: '100%' }} />
       <Page markdown={`## 画布设计`} />

@@ -11,7 +11,7 @@ const markdown = `
 * **name** { string } 应用名称
 * **version** { string } 应用版本 
 * **data**  { Record<string, *IData*> } 全局变量
-* **componentMap** { Record<string, [物料协议]> } 全量组件的物料描述，结构相见 [物料协议](此处为链接)
+* **componentMap** { Record<string, [物料协议]> } 全量组件的物料描述，结构相见 *物料协议*
 * **pagesMap** { Record<string, *IPage*> } 页面描述
 * **methods** { Record<string, *IMethod*> } 自定义事件描述
 
